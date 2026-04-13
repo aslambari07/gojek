@@ -1,6 +1,8 @@
 # Gojek Clone Suite
 
-🚀 **Live App:** https://frontend-chi-gold-54.vercel.app/
+# Gojek Clone Suite
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://frontend-chi-gold-54.vercel.app/)
 
 Web aplikasi layanan transportasi dan multi-service dengan 3 area utama: customer, driver, dan admin panel.
 
